@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: a8f5db0ce12719c479142c66f134141f
+  productGUID: 8aca8004b66df994f975d34a57582d63
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: "\u5171\u540C"
+  productName: My project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -601,14 +601,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: "\u5171\u540C"
+  metroPackageName: My project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: "\u5171\u540C"
+  metroApplicationDescription: My project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -679,10 +679,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 82aa6db2-a2a8-41ac-9fc2-2ccbf8b91460
+  cloudProjectId: 4f9972ed-0a2d-44a1-86f6-e3ec0ca3c595
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: "\u5171\u540C"
+  projectName: My project
   organizationId: unity_260155
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
