@@ -47,7 +47,7 @@ public class signboard : MonoBehaviour
     public virtual void ReadSign()
     {
         //「こんにちは」を代入する（＝こんにちはと表示）
-        messageText.text = "こっちちゃうよバーガー";
+        messageText.text = "上を目指しましょう";
 
         //Imageコンポーネントの有効化（＝表示する）
         backgroundColorImage.enabled = true;
