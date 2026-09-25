@@ -9,7 +9,7 @@ public class signboard2 : signboard
     public override void ReadSign()
     {
         //「こんにちは」を代入する（＝こんにちはと表示）
-        messageText.text = "この扉 DOARっていうんだぜ！";
+        messageText.text = "この扉 DOARっていうんだぜ!";
 
         //Imageコンポーネントの有効化（＝表示する）
         backgroundColorImage.enabled = true;
