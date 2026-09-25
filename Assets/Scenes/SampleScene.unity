@@ -23699,7 +23699,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneName: 2
-  spawnPointName: SpownPoint2
+  spawnPointName: SpownPoint1
 --- !u!1 &1712195102
 GameObject:
   m_ObjectHideFlags: 0
