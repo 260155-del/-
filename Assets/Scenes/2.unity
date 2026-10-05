@@ -176512,7 +176512,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4740368776601293955, guid: 09dad51a83ffe104e94f4c0649c21bea, type: 3}
       propertyPath: m_Name
-      value: SpawnPoint2
+      value: SpownPoint2
       objectReference: {fileID: 0}
     - target: {fileID: 6575056862713210231, guid: 09dad51a83ffe104e94f4c0649c21bea, type: 3}
       propertyPath: m_LocalPosition.x
@@ -176579,7 +176579,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bffdc028a849725458ff147bde35f5e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnPointName: SpawnPoint1
+  spawnPointName: SpownPoint2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
