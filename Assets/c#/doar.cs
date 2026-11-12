@@ -3,8 +3,8 @@ using UnityEngine;
 
 public class door : MonoBehaviour
 {
-    [Header("移動先スポーンポイント名")]
-    [SerializeField] private string spawnPointName;
+    [Header("移動先スポーンポイント")]
+    [SerializeField] private GameObject spawnPoint;
 
     private bool playerInside = false;
 
@@ -12,11 +12,9 @@ public class door : MonoBehaviour
     {
         if (playerInside && Input.GetKeyDown(KeyCode.Space))
         {
-            GameObject spawnPoint = GameObject.Find(spawnPointName);
-
             if (spawnPoint == null)
             {
-                Debug.LogError("ワープ先が見つかりません！名前を確認してください。");
+                Debug.LogError("ワープ先が設定されていません！");
                 return;
             }
 
